@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":Titos_Vodka.aternos.me,
+	"port": 40925,
+	"name": "AFK_BOT"
 }
